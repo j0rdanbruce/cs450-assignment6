@@ -1,0 +1,12 @@
+.svg_parent {
+    border: solid black 1px;
+}
+
+.tooltip {
+    position: absolute;
+}
+.svg_bar {
+    background: grey;
+    border-radius: 10px;
+    opacity: 0;
+}
